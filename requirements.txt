@@ -1,0 +1,10 @@
+simplejson
+base58
+sqlalchemy
+psycopg2-binary
+python-memcached
+python-dotenv
+pysha3
+
+flake8
+yapf
